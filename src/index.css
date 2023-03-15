@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
-
 * {
     padding:0;
     margin:0;
@@ -115,8 +114,6 @@ img {
     object-fit:cover;
 }
 
-/* ==============GENERAL STYLES =================*/
-
 /* ==============MEDIA QUERIES (MEDIUM DEVICES) =================*/
 
 @media screen and (max-width:1024px){
@@ -129,9 +126,6 @@ img {
     }
 }
 
-
-/* ==============MEDIA QUERIES (MEDIUM DEVICES) =================*/
-
 /* ==============MEDIA QUERIES (SMALL DEVICES) =================*/
 
 @media screen and (max-width:600px){
@@ -143,5 +137,3 @@ img {
         margin-top: 2rem;
     }
 }
-
-/* ==============MEDIA QUERIES (SMALL DEVICES) =================*/
